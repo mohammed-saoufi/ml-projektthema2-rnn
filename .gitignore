@@ -1,8 +1,12 @@
-# Python
+
 __pycache__/
 *.pyc
+ 
 
-# OS
 .DS_Store
 Thumbs.db
+.vscode/
+ 
+
+results/tuning/*.pth
 
